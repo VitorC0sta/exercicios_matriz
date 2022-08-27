@@ -7,7 +7,6 @@ int main()
 {
     int i,j;
     int matriz[10][10];
-    //double i3 = 3*i, j4 = 4*i, i5 = 5*i;
 
 
     for(i = 0; i < 10; i++) {
